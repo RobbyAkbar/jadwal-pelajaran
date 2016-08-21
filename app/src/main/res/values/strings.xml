@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jadwal Pelajaran</string>
+
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+
+    <string name="jadwalpelajaran_fragment_title">Jadwal Pelajaran</string>
+    <string name="info_fragment_title">Info</string>
+    <string name="catatan_fragment_title">Catatan</string>
+    <string name="tentang_fragment_title">Tentang</string>
+
+    <string name="jadwalpelajaran_fragment_subtitle">Lihat Jadwal Pelajaran</string>
+    <string name="info_fragment_subtitle">SMK Negeri 2 Cikarang Barat</string>
+    <string name="catatan_fragment_subtitle">Buat Catatan</string>
+    <string name="tentang_fragment_subtitle">Tentang pengembang</string>
+
+    <string name="recycler_view_0_title">X TKJ 1</string>
+    <string name="recycler_view_1_title">X TKJ 2</string>
+    <string name="recycler_view_2_title">X TKJ 3</string>
+    <string name="recycler_view_3_title">X MM 1</string>
+    <string name="recycler_view_4_title">X MM 2</string>
+    <string name="recycler_view_5_title">X AN 1</string>
+    <string name="recycler_view_6_title">X AN 2</string>
+    <string name="recycler_view_7_title">X AK 1</string>
+    <string name="recycler_view_8_title">X AK 2</string>
+    <string name="recycler_view_9_title">X AK 3</string>
+    <string name="recycler_view_10_title">X AK 4</string>
+    <string name="recycler_view_11_title">X AP 1</string>
+    <string name="recycler_view_12_title">X AP 2</string>
+    <string name="recycler_view_13_title">X AP 3</string>
+    <string name="recycler_view_14_title">X PM 1</string>
+    <string name="recycler_view_15_title">X PM 2</string>
+    <string name="recycler_view_16_title">X PM 3</string>
+    <string name="recycler_view_17_title">XI TKJ 1</string>
+    <string name="recycler_view_18_title">XI TKJ 2</string>
+    <string name="recycler_view_19_title">XI MM 1</string>
+    <string name="recycler_view_20_title">XI AN 1</string>
+    <string name="recycler_view_21_title">XI AK 1</string>
+    <string name="recycler_view_22_title">XI AK 2</string>
+    <string name="recycler_view_23_title">XI AK 3</string>
+    <string name="recycler_view_24_title">XI AP 1</string>
+    <string name="recycler_view_25_title">XI AP 2</string>
+    <string name="recycler_view_26_title">XI AP 3</string>
+    <string name="recycler_view_27_title">XI PM 1</string>
+    <string name="recycler_view_28_title">XI PM 2</string>
+    <string name="recycler_view_29_title">XII TKJ 1</string>
+    <string name="recycler_view_30_title">XII TKJ 2</string>
+    <string name="recycler_view_31_title">XII MM 1</string>
+    <string name="recycler_view_32_title">XII MM 2</string>
+    <string name="recycler_view_33_title">XII AN 1</string>
+    <string name="recycler_view_34_title">XII AK 1</string>
+    <string name="recycler_view_35_title">XII AK 2</string>
+    <string name="recycler_view_36_title">XII AK 3</string>
+    <string name="recycler_view_37_title">XII AP 1</string>
+    <string name="recycler_view_38_title">XII AP 2</string>
+    <string name="recycler_view_39_title">XII AP 3</string>
+    <string name="recycler_view_40_title">XII PM 1</string>
+    <string name="recycler_view_41_title">XII PM 2</string>
+
+    <string name="recycler_view_0_subtitle">Jadwal Pelajaran X TKJ 1</string>
+    <string name="recycler_view_1_subtitle">Jadwal Pelajaran X TKJ 2</string>
+    <string name="recycler_view_2_subtitle">Jadwal Pelajaran X TKJ 3</string>
+    <string name="recycler_view_3_subtitle">Jadwal Pelajaran X MM 1</string>
+    <string name="recycler_view_4_subtitle">Jadwal Pelajaran X MM 2</string>
+    <string name="recycler_view_5_subtitle">Jadwal Pelajaran X AN 1</string>
+    <string name="recycler_view_6_subtitle">Jadwal Pelajaran X AN 2</string>
+    <string name="recycler_view_7_subtitle">Jadwal Pelajaran X AK 1</string>
+    <string name="recycler_view_8_subtitle">Jadwal Pelajaran X AK 2</string>
+    <string name="recycler_view_9_subtitle">Jadwal Pelajaran X AK 3</string>
+    <string name="recycler_view_10_subtitle">Jadwal Pelajaran X AK 4</string>
+    <string name="recycler_view_11_subtitle">Jadwal Pelajaran X AP 1</string>
+    <string name="recycler_view_12_subtitle">Jadwal Pelajaran X AP 2</string>
+    <string name="recycler_view_13_subtitle">Jadwal Pelajaran X AP 3</string>
+    <string name="recycler_view_14_subtitle">Jadwal Pelajaran X PM 1</string>
+    <string name="recycler_view_15_subtitle">Jadwal Pelajaran X PM 2</string>
+    <string name="recycler_view_16_subtitle">Jadwal Pelajaran X PM 3</string>
+    <string name="recycler_view_17_subtitle">Jadwal Pelajaran XI TKJ 1</string>
+    <string name="recycler_view_18_subtitle">Jadwal Pelajaran XI TKJ 2</string>
+    <string name="recycler_view_19_subtitle">Jadwal Pelajaran XI MM 1</string>
+    <string name="recycler_view_20_subtitle">Jadwal Pelajaran XI AN 1</string>
+    <string name="recycler_view_21_subtitle">Jadwal Pelajaran XI AK 1</string>
+    <string name="recycler_view_22_subtitle">Jadwal Pelajaran XI AK 2</string>
+    <string name="recycler_view_23_subtitle">Jadwal Pelajaran XI AK 3</string>
+    <string name="recycler_view_24_subtitle">Jadwal Pelajaran XI AP 1</string>
+    <string name="recycler_view_25_subtitle">Jadwal Pelajaran XI AP 2</string>
+    <string name="recycler_view_26_subtitle">Jadwal Pelajaran XI AP 3</string>
+    <string name="recycler_view_27_subtitle">Jadwal Pelajaran XI PM 1</string>
+    <string name="recycler_view_28_subtitle">Jadwal Pelajaran XI PM 2</string>
+    <string name="recycler_view_29_subtitle">Jadwal Pelajaran XII TKJ 1</string>
+    <string name="recycler_view_30_subtitle">Jadwal Pelajaran XII TKJ 2</string>
+    <string name="recycler_view_31_subtitle">Jadwal Pelajaran XII MM 1</string>
+    <string name="recycler_view_32_subtitle">Jadwal Pelajaran XII MM 2</string>
+    <string name="recycler_view_33_subtitle">Jadwal Pelajaran XII AN 1</string>
+    <string name="recycler_view_34_subtitle">Jadwal Pelajaran XII AK 1</string>
+    <string name="recycler_view_35_subtitle">Jadwal Pelajaran XII AK 2</string>
+    <string name="recycler_view_36_subtitle">Jadwal Pelajaran XII AK 3</string>
+    <string name="recycler_view_37_subtitle">Jadwal Pelajaran XII AP 1</string>
+    <string name="recycler_view_38_subtitle">Jadwal Pelajaran XII AP 2</string>
+    <string name="recycler_view_39_subtitle">Jadwal Pelajaran XII AP 3</string>
+    <string name="recycler_view_40_subtitle">Jadwal Pelajaran XII PM 1</string>
+    <string name="recycler_view_41_subtitle">Jadwal Pelajaran XII PM 2</string>
+
+</resources>

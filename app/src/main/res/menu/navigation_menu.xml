@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_menu">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/jadwal_pelajaran"
+            android:title="Jadwal Pelajaran"
+            android:checked="true"
+			android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/info"
+            android:title="Info"
+            android:checkable="true"
+            android:icon="@drawable/ic_new"/>
+        <item
+            android:id="@+id/catatan"
+            android:title="Catatan"
+			android:icon="@drawable/ic_note"/>
+        <item
+            android:id="@+id/tentang"
+            android:title="Tentang"
+			android:icon="@drawable/ic_info"/>
+        <item
+            android:id="@+id/keluar"
+            android:title="Keluar"
+			android:icon="@drawable/ic_exit"/>
+
+    </group>
+
+</menu>

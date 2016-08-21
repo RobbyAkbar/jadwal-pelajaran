@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_titles">
+		<item>X TKJ 1</item>
+		<item>X TKJ 2</item>
+		<item>X TKJ 3</item>
+		<item>X MM 1</item>
+		<item>X MM 2</item>
+		<item>X AN 1</item>
+		<item>X AN 2</item>
+		<item>X AK 1</item>
+		<item>X AK 2</item>
+		<item>X AK 3</item>
+		<item>X AK 4</item>
+		<item>X AP 1</item>
+		<item>X AP 2</item>
+		<item>X AP 3</item>
+		<item>X PM 1</item>
+		<item>X PM 2</item>
+		<item>X PM 3</item>
+		<item>XI TKJ 1</item>
+		<item>XI TKJ 2</item>
+		<item>XI MM</item>
+		<item>XI AN</item>
+		<item>XI AK 1</item>
+		<item>XI AK 2</item>
+		<item>XI AK 3</item>
+		<item>XI AP 1</item>
+		<item>XI AP 2</item>
+		<item>XI AP 3</item>
+		<item>XI PM 1</item>
+		<item>XI PM 2</item>
+		<item>XII TKJ 1</item>
+		<item>XII TKJ 2</item>
+		<item>XII MM 1</item>
+		<item>XII MM 2</item>
+		<item>XII AN</item>
+		<item>XII AK 1</item>
+		<item>XII AK 2</item>
+		<item>XII AK 3</item>
+		<item>XII AP 1</item>
+		<item>XII AP 2</item>
+		<item>XII AP 3</item>
+		<item>XII PM 1</item>
+		<item>XII PM 2</item>
+	</string-array>
+	<string-array name="card_contents">
+		<item>Jadwal Pelajaran X TKJ 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X TKJ 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X TKJ 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X MM 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X MM 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AN 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AN 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AK 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AK 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AK 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AK 4 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AP 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AP 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X AP 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X PM 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X PM 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran X PM 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI TKJ 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI TKJ 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI MM (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AN (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AK 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AK 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AK 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AP 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AP 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI AP 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI PM 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XI PM 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII TKJ 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII TKJ 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII MM 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII MM 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AN (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AK 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AK 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AK 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AP 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AP 2 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII AP 3 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII PM 1 (Klik untuk lihat)</item>
+		<item>Jadwal Pelajaran XII PM 2 (Klik untuk lihat)</item>
+	</string-array>
+</resources>

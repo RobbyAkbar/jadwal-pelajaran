@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smkn2.cikarangbarat" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView0"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView1"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView2"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView3"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView4"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView5"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView6"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView7"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView8"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView9"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView10"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView11"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView12"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView13"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView14"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView15"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView16"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView17"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView18"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView19"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView20"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView21"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView22"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView23"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView24"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView25"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView26"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView27"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView28"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView29"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView30"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView31"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView32"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView33"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView34"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView35"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView36"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView37"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView38"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView39"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView40"/>
+        <activity android:name="com.smkn2.recyclerview.RecyclerView41"/>
+    </application>
+
+</manifest>
